@@ -176,5 +176,7 @@ baseDrop.extendsFrom(baseDragAndDrop);
  * 
  * 2, class baseDrop extends baseDragAndDrop {}
  * 
+ * Raymond Fu
+ * 2016-3
  ***/
  
