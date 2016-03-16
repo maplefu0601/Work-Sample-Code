@@ -168,3 +168,13 @@ baseDrop.prototype.onDrop = function (event,dropData,session)
 }
 
 baseDrop.extendsFrom(baseDragAndDrop);
+
+
+/***
+ * you also could use the following method to implement extends
+ * 1, baseDrop.prototype = Object.create(baseDragAndDrop.prototype);
+ * 
+ * 2, class baseDrop extends baseDragAndDrop {}
+ * 
+ ***/
+ 
